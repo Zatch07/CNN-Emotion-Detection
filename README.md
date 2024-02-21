@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 
 ### Running the Project
 To run the emotion detection model, execute the following command:
-    ```bash
+
     python main.py
 
 This will start the application and begin detecting emotions using your webcam.
